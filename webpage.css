@@ -1,0 +1,26 @@
+h1{
+    size:100 ;color: green;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+h2  {
+            size: 100; color:red;
+    }
+p{
+    font-size:20px;
+}
+body{
+            background-color: aqua;
+     }
+.img1 {
+            width:450px;height: 600px;
+     }
+.image{
+     display: flex;
+            height: 85vh;
+            width: 15vm;
+            border: 2px solid black;
+            justify-content:center;
+            align-items: center;
+            margin: 2vw;
+            padding: 8vw;
+}
